@@ -1117,10 +1117,6 @@ color: var(--gray-section);
     padding-top: 15px;
     background-color: transparent;
     }
-    .icon-slider ul {
-        margin: 0 !important;
-        padding: 0 !important;
-    }
 
 }
 @media (max-width:600px) {
@@ -1150,6 +1146,10 @@ color: var(--gray-section);
     }
     .gallery .modal-content img{
         height: 500px;
+        }
+        .icon-slider ul {
+            margin: 0 !important;
+            padding: 0 !important;
         }
 }
 @media (max-width:400px) {
